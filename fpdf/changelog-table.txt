@@ -1,0 +1,26 @@
+Changelog:
+
+2012.10.12 - 4.2.0
+ - code refactoring, structure changes, more examples
+
+2012.09.14 - 4.1.0
+    - Version update due to multicell version changes.
+    - update of the licence agreement
+
+2012.08.02 - 4.0.7
+    - Bugfix - errors displayed and wrong table alignment in case the table was started and it's not enough space on the current page.
+
+2012.05.21 - 4.0.6
+    - Version update due to multicell version changes.
+
+2012.05.14 - 4.0.5
+    - Version update due to multicell version changes.
+
+2012.03.12 - 4.0.3
+    - Bugfix(#283) - Empty content generated(multiple pdf documents)
+
+2012.02.19 - 4.0.1
+    - FEATURE - extended examples added for Advanced Table Utf8
+    - BUGFIX - the text width in case of PADDING_LEFT and PADDING_RIGHT were not correctly calculated
+
+2012.02.02 - fpdf Advanced Table functionality was ported to work with tFpdf

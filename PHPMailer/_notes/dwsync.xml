@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.phpmaileroauthgoogle.php" server="seavest.co.za/public_html/inv/" local="131381988915804848" remote="130990968000000000" Dst="0" />
+<file name="changelog.md" server="seavest.co.za/public_html/inv/" local="131381988916864909" remote="130990968000000000" Dst="0" />
+<file name="class.phpmaileroauth.php" server="seavest.co.za/public_html/inv/" local="131381988916864909" remote="130990968000000000" Dst="0" />
+<file name="class.pop3.php" server="seavest.co.za/public_html/inv/" local="131381988921585179" remote="130990968000000000" Dst="0" />
+<file name="class.phpmailer.php" server="seavest.co.za/public_html/inv/" local="131381988924075321" remote="130990968000000000" Dst="0" />
+<file name="class.smtp.php" server="seavest.co.za/public_html/inv/" local="131381988924955371" remote="130990968000000000" Dst="0" />
+<file name="composer.json" server="seavest.co.za/public_html/inv/" local="131381988924965372" remote="130990968000000000" Dst="0" />
+<file name="composer.lock" server="seavest.co.za/public_html/inv/" local="131381988931635753" remote="130990968000000000" Dst="0" />
+<file name="get_oauth_token.php" server="seavest.co.za/public_html/inv/" local="131381989018880744" remote="130990968000000000" Dst="0" />
+<file name=".gitignore" server="seavest.co.za/public_html/inv/" local="131381989020670846" remote="130990968000000000" Dst="0" />
+<file name="LICENSE" server="seavest.co.za/public_html/inv/" local="131381989088694737" remote="130990968000000000" Dst="0" />
+<file name="PHPMailerAutoload.php" server="seavest.co.za/public_html/inv/" local="131381989090484839" remote="130990968000000000" Dst="0" />
+<file name="README.md" server="seavest.co.za/public_html/inv/" local="131381989091114875" remote="130990968000000000" Dst="0" />
+<file name=".scrutinizer.yml" server="seavest.co.za/public_html/inv/" local="131381989094275056" remote="130990968000000000" Dst="0" />
+<file name="travis.phpunit.xml.dist" server="seavest.co.za/public_html/inv/" local="131381989108545872" remote="130990968000000000" Dst="0" />
+<file name=".travis.yml" server="seavest.co.za/public_html/inv/" local="131381989109175908" remote="130990968000000000" Dst="0" />
+<file name="VERSION" server="seavest.co.za/public_html/inv/" local="131381989111526043" remote="130990968000000000" Dst="0" />
+</dwsync>
