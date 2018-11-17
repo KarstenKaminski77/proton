@@ -1,0 +1,28 @@
+<html> 
+<head> 
+</head> 
+<body> 
+<script type="text/javascript">
+function OnSubmitForm(){
+	
+	if(document.pressed == 'Insert'){
+		
+		document.myform.action ="index.php";
+	} else
+	
+	if(document.pressed == 'Update'){
+		
+		document.myform.action ="login.php";
+	}
+	
+	return true;
+}
+</script>
+<form method="post" name="myform" onsubmit="return OnSubmitForm();">
+ 
+<input type="Submit" name="xxx" onclick="document.pressed=this.value" value="Insert" />
+ 
+<input type="Submit" name="zzz" onclick="document.pressed=this.value" value="Update" />
+ 
+</form></body> 
+</html> 

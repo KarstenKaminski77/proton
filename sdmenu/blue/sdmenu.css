@@ -1,0 +1,94 @@
+div.sdmenu {
+	width: 220px;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	padding-bottom: 10px;
+	color: #FFF;
+	background-color:#0183ba;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-radius:5px 5px 5px 5px;
+	border-radius:5px 5px 5px 5px; /* future proofing */
+	-khtml-border-radius:5px 5px 5px 5px; /* for old Konqueror browsers */
+}
+div.sdmenu div {
+	overflow: hidden;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	border-top-style: none;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #CCC;
+	border-left-color: #CCC;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	background-color: #0183ba;
+}
+div.sdmenu div:first-child {
+	background-color:#0183ba;
+	-moz-border-radius: 5px 5px 0 0;
+	-webkit-border-radius: 5px 5px 0 0;
+	border-radius: 5px 5px 0 0; /* future proofing */
+	-khtml-border-radius: 5px 5px 0 0; /* for old Konqueror browsers */
+}
+div.sdmenu div.collapsed {
+	height: 35px;
+}
+div.sdmenu div span {
+	display: block;
+	font-weight: bold;
+	color: #FFF;
+	background: url(expanded.gif) no-repeat 10px center;
+	cursor: pointer;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #d7effc;
+	font-size:14px;
+	padding-top: 10px;
+	padding-right: 25px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+}
+div.sdmenu div.collapsed span {
+	background-image: url(collapsed.gif);
+}
+div.sdmenu div a {
+	display: block;
+	border-bottom: 1px solid #ddd;
+	color: #999;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 25px;
+	background-color: #f7f7f7;
+}
+div.sdmenu div a.current {
+	text-decoration: none;
+	color:#0183BA;
+	background-color: #d7effc;
+}
+div.sdmenu div a:hover {
+	color: #fff;
+	text-decoration: none;
+	background-color: #0183BA;
+	background-image: url(linkarrow.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.first-line {
+	height:1px;
+	width:220px;
+	display:block !important;
+}
+a.logout {
+	color:#FFF !important;
+	text-decoration:none;
+	background:none !important;
+	padding-left:0px !important;
+	line-height:5px !important;
+	border:none !important;
+}
+a.logout:hover {
+	color: ##D9F0FC !important;
+}
